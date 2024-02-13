@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrilaterals", "testoop\Quadrilaterals.csproj", "{784378F6-0ECA-43AE-A823-F4F9A1DC5EA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784378F6-0ECA-43AE-A823-F4F9A1DC5EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784378F6-0ECA-43AE-A823-F4F9A1DC5EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784378F6-0ECA-43AE-A823-F4F9A1DC5EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784378F6-0ECA-43AE-A823-F4F9A1DC5EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {713FB6B2-4512-45B2-910A-0301E6372109}
+	EndGlobalSection
+EndGlobal
